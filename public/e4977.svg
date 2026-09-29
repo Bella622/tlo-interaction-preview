@@ -1,0 +1,7 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="wrapper">
+<rect id="border" x="6" y="6" width="12" height="12" rx="6" stroke="#F2F3F5" stroke-width="12"/>
+<rect id="bg" x="6" y="6" width="12" height="12" rx="1" fill="white" stroke="#C9CDD4" stroke-width="2"/>
+<path id="Combined Shape" d="M14.0253 11.0257C14.1879 11.1879 14.1964 11.4485 14.0453 11.6216L11.7589 14.2394L11.7741 14.256L11.5442 14.4859L11.4358 14.6109C11.396 14.6565 11.349 14.6912 11.2991 14.7187C11.1004 14.8545 10.8265 14.8315 10.6548 14.6503L9.86826 13.8196C9.6822 13.623 9.68599 13.3144 9.87724 13.1228L9.93663 13.0634C10.1356 12.8647 10.4599 12.8689 10.6534 13.0731L11.1568 13.6041L13.3886 11.0478C13.5545 10.8577 13.8466 10.8476 14.0253 11.0257Z" fill="white"/>
+</g>
+</svg>

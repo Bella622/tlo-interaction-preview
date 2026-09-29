@@ -1,0 +1,10 @@
+{
+  "description": "Navigate seamlessly through core pages and detailed views with intuitive top navigation and breadcrumb trails designed for efficient user workflows.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
